@@ -94,3 +94,7 @@ engineer-facing materials for QA, Safety, and Alignment integration.
 ## References
 - PKF – Decision Interruption Safety Rule (Zenodo DOI):  
   https://doi.org/10.5281/zenodo.18333893
+  
+Correspondence: pkf.eunyoung@gmail.com
+This document serves as a canonical reference.
+Correspondence is limited to scholarly clarification or citation-related matters.
